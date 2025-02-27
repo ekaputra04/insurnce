@@ -25,8 +25,8 @@ const policiesItems: PoliciesItemType[] = [
 export default function Policies() {
   return (
     <>
-      <div className="px-8 md:px-16 lg:px-48 py-24">
-        <h2 className="font-semibold text-[#093624] text-xl md:text-2xl lg:text-4xl">
+      <div className="px-8 md:px-16 lg:px-48 py-16">
+        <h2 className="font-semibold text-[#093624] text-xl md:text-2xl lg:text-3xl">
           Individual & Umbrella Policies
         </h2>
         <div className="gap-8 grid grid-cols-1 md:grid-cols-3 mt-8">

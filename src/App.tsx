@@ -1,3 +1,4 @@
+import Consultation from "./components/Consultation";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Policies from "./components/Policies";
@@ -8,6 +9,7 @@ export default function App() {
       <Navbar />
       <Home />
       <Policies />
+      <Consultation />
     </div>
   );
 }
