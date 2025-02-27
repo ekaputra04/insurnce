@@ -9,10 +9,10 @@ export default function Consultation() {
             Experienced Agents You Can Trust
           </h3>
           <p className="text-slate-600">
-            Proin eget tortor risus. Praesent sapien massa, convallis a
-            pellentesque nec, egestas non nisi. Donec rutrum congue leo eget
-            malesuada. Nulla porttitor accumsan tincidunt. Donec rutrum congue
-            leo eget malesuada.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Voluptatibus consectetur tempore quia nam recusandae vero tenetur
+            eius molestias eum quasi modi animi beatae, corrupti delectus ipsum
+            commodi consequuntur facere dolorum!
           </p>
         </div>
         <div className="md:w-1/2">
@@ -41,6 +41,21 @@ export default function Consultation() {
               </Button>
             </div>
           </div>
+        </div>
+      </div>
+      <div className="flex md:flex-row flex-col justify-between items-center gap-16 px-8 md:px-16 lg:px-48 py-16">
+        <div className="md:w-1/2">
+          <img src="/images/consultation.png" alt="" />
+        </div>
+        <div className="space-y-8 md:w-1/2">
+          <h3 className="font-semibold text-[#093624] text-xl md:text-2xl lg:text-3xl">
+            We Got You Covered. Don’t Get Caught Off Guard
+          </h3>
+          <p className="text-slate-600">
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            Accusantium cum alias ullam possimus, voluptatibus omnis fugit ipsam
+            quam quasi dolorem nisi excepturi enim dolorum esse?
+          </p>
         </div>
       </div>
     </>
