@@ -24,7 +24,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center gap-8">
           <ul className="flex justify-between items-center gap-16">
             {navbarItems.map((item, index) => (
-              <li key={index} className="text-white">
+              <li key={index} className="text-white hover:underline">
                 <a href={item.href}>{item.title}</a>
               </li>
             ))}
