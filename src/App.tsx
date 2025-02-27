@@ -1,4 +1,5 @@
 import Consultation from "./components/Consultation";
+import Contact from "./components/Contact";
 import Customer from "./components/Customer";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
@@ -12,6 +13,7 @@ export default function App() {
       <Policies />
       <Consultation />
       <Customer />
+      <Contact />
     </div>
   );
 }
