@@ -38,7 +38,7 @@ export default function Contact() {
             </a>
           </div>
         </div>
-        <div className="space-y-4 bg-white p-8 rounded-xl md:w-1/2">
+        <div className="space-y-4 bg-white p-8 rounded-xl w-full md:w-1/2">
           <div className="">
             <Label className="text-[#0D4A31]" htmlFor="name">
               Name
